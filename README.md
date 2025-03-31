@@ -11,6 +11,7 @@
 - 🌱 I'm currently learning Java, C#, and focusing on DSA.
 - 🔭 I'm working on building my skills in software development
 - 🎯 My goal is to be a Software Engineer at Microsoft!
+- 📧 Reach out to me: ignasantidev@gmail.com
 
 ## Skills
 - Programming Languages: Python, C++, Java, C#, Visual Basic.
